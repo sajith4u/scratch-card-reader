@@ -46,6 +46,12 @@
                 android:id="@+id/textView6"
                 android:layout_x="231dp"
                 android:layout_y="380dp"/>
+        <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/mobitelButton"
+                android:layout_x="161dp" android:layout_y="25dp"
+                android:background="@drawable/mobitel"/>
     </AbsoluteLayout>
 </LinearLayout>
 
