@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">scratch-card-reader</string>
+    <color name="white">#FFFFFF</color>
+    <color name="orange">#F9690E</color>
+    <color name="green">#32AC6F</color>
+</resources>
